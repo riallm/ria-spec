@@ -1627,8 +1627,8 @@ If you use RIA models in your research, please cite:
 
 ---
 
-**Contact**: research@riallm.org  
-**Website**: https://riallm.org  
+**Contact**: research@dust.llc
+**Website**: https://riallm.github.io  
 **GitHub**: https://github.com/riallm/ria
 
 ---
