@@ -83,7 +83,7 @@ Please open an issue or submit a pull request.
 
 ## 📄 License
 
-The RIA specification documents are licensed under the [Apache 2.0 License](../riallm/LICENSE).
+The RIA specification documents are licensed under the [DOSL-IIE-1.0 License](./LICENSE).
 
 ## 📞 Contact
 

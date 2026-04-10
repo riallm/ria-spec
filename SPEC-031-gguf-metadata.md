@@ -24,7 +24,7 @@ Metadata is stored as key-value pairs in the GGUF header before tensor data.
 | `general.description` | STRING | "RIA 8B for interactive coding" | Human-readable description |
 | `general.author` | STRING | "riallm Team" | Model creator |
 | `general.version` | STRING | "1.0" | Version string |
-| `general.license` | STRING | "Apache-2.0" | License identifier |
+| `general.license` | STRING | "DOSL-IIE-1.0" | License identifier |
 | `general.url` | STRING | "https://github.com/riallm/ria" | Model URL |
 | `general.source_url` | STRING | "..." | Source repository URL |
 | `general.base_model` | STRING | "..." | Base model if fine-tuned |
@@ -123,7 +123,7 @@ Metadata is stored as key-value pairs in the GGUF header before tensor data.
   "general.description": "RIA 8B parameter model for interactive coding assistance",
   "general.author": "riallm Team",
   "general.version": "1.0",
-  "general.license": "Apache-2.0",
+  "general.license": "DOSL-IIE-1.0",
   "general.url": "https://github.com/riallm/ria",
   "general.file_type": 13,
   "general.quantization_version": 2,

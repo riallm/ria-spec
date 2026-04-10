@@ -283,7 +283,7 @@ Contributors are recognized in:
 
 ### 12.1 License
 
-All contributions are licensed under Apache 2.0.
+All contributions are licensed under DOSL-IIE-1.0 (Dust Open Source License - Intelligence Infrastructure Edition).
 
 ### 12.2 DCO
 
